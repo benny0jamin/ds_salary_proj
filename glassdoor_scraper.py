@@ -1,3 +1,12 @@
+'''
+Author: Ben
+Date: 26-07-2023
+Description: This script contains functions for web scraping job listings from Glassdoor 
+using Selenium. It includes functions for creating a WebDriver instance, navigating the 
+website, handling CAPTCHAs and popups, extracting job details, and saving the scraped 
+data to a CSV file.
+'''
+
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium.webdriver.common.by import By
@@ -71,9 +80,9 @@ def scrape_job_details(driver, verbose):
 def get_element_text(driver, css_selector):
     '''Attempts to get an element's text. Returns an empty string if the element is not found.'''
     try:
-        print(f"Searching for {css_selector}")
+        # print(f"Searching for {css_selector}")
         element_text = driver.find_element(By.CSS_SELECTOR, '#JDCol ' + css_selector).text
-        print(f"Found element:")
+        # print(f"Found element:")
         return element_text
     except NoSuchElementException:
         print(f"No element found for CSS selector: {css_selector}")
@@ -148,8 +157,4 @@ def get_jobs(keyword, num_jobs, verbose):
     driver.quit()
 
     return pd.DataFrame(jobs)  # This line converts the dictionary object into a pandas DataFrame
-
-# # This line will open a new chrome window and start the scraping.
-# df = get_jobs("data scientist", 5, False)
-# df
 
