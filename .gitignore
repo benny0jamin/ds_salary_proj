@@ -1,2 +1,4 @@
 .conda
 __pycache__/
+.spyproject
+.ipynb_checkpoints

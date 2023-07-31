@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,hourly,employer_provided,min_salary,max_salary,avg_salary,python,azure,r studio,sql,hadoop,spark,java,sas,tableau,hive,scala,aws,tensorflow,c++,matlab,excel
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,hourly,employer_provided,min_salary,max_salary,avg_salary,python,azure,r studio,sql,hadoop,spark,java,sas,tableau,hive,scala,aws,tensorflow,c++,matlab,excel,job_simp,seniority,desc_len
 Data Science & Insights Graduate,$83K - $132K (Glassdoor Est.),"this is your invitation to join us on our mission to build places people really want to be.
 
 welcome to one of australia’s leading property groups. as a stockland graduate, you’ll play a real and enduring role in creating sustainable and vibrant places where millions of australians live, work, shop and play.
@@ -8,21 +8,21 @@ our commitment to people and the planet is evident in what we do every day. that
 you don’t have to have to have studied property to work in property. we’re proud to have one of australia's most flexible graduate programs; putting you in control of your graduate experience and enabling you to explore all that property has to offer.
 
 so, if you’re energised by common purpose, excited by bold and visionary thinking, and driven to learn and grow together with the best in the business then we’d love to hear from you. in return, we’ll invest in you, to support your career and your vision for your future.",4.0,"Stockland
-4.0",Sydney,0,0,83000.0,132000.0,107500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,0,83000.0,132000.0,107500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,1016
 Analytics Delivery Manager,$83K - $108K (Glassdoor Est.),"hybrid work environment - we flex to thrive
 exciting time to join a top 100 asx listed business with big goals.
 access to a great selection of benefits and corporate discounts!
 
 we’ve only just begun, but what a beginning. in a once in a generation moment, we’ve brought together powerful brands to create one united force. tpg telecom has a powerhouse of brands which include vodafone, tpg, iinet, internode, lebara, aapt and felix. the latest technology and brave thinking let us connect our people and communities. you could play a role in that. a big one. we invite you to bring your boldness and stand out. you are empowered. opportunities are plenty for those ready to accept the challenge.
 this opportunity",3.9,"TPG Telecom
-3.9",Sydney,0,0,83000.0,108000.0,95500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.9",Sydney,0,0,83000.0,108000.0,95500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,manager,na,713
 Data Scientist (VPSG5),Employer Provided Salary:$105K - $128K,"job description
 location: melbourne | cbd
 job type: full time
 organisation: department of energy, environment and climate action
 salary: $105,479 - $127,621
 occupation: science
-reference: vg/50942074c",4.0,"Department of Energy, Environment and Climate Action",Melbourne,0,1,105000.0,128000.0,116500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+reference: vg/50942074c",4.0,"Department of Energy, Environment and Climate Action",Melbourne,0,1,105000.0,128000.0,116500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,200
 Data Scientist,$103K - $124K (Glassdoor Est.),"about zeller
 
 at zeller, we’re champions for businesses of all sizes, and proud to be a fast-growing australian scale-up taking on the ambitious goal of reimagining business banking and payments.
@@ -30,7 +30,7 @@ at zeller, we’re champions for businesses of all sizes, and proud to be a fast
 we believe in a level playing field, where all businesses benefit from access to smarter payments and financial services solutions that accelerate their cash flow, help them get paid faster, and give them a better understanding of their finances. so we’re hard at work building the tools to make it happen.
 
 zeller is growing fast, backed by leading vcs, and brings together a global team of passionate payment and tech industry professionals. with an exciting roadmap of innovative new products under development, we are building a high performing team to take on the outdated banking solutions. if you are passionate about innovation, thrive in fast-paced environments, embrace a challenge, hate bureaucracy, and can’t think of anything more exciting than disrupting the status-quo, then read on to learn more.",3.0,"Zeller
-3.0",Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.0",Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,1009
 Data Scientist,Employer Provided Salary:$134K - $155K,"data scientist
 
 grade/salary: clerk grade 11/12, $134,411 - $155,445 + superannuation and leave loading
@@ -39,13 +39,13 @@ location: flexible hybrid working from home arrangements, including office-based
 
 about the team
 id support nsw is looking for a data scientist who can transform business and industry analytics and insights into products and solutions that contribute to identity protection initiatives and drive digital data projects to new heights and success. id support nsw provides easy support services for individuals whose proof of identity credentials are compromised, stolen, or fraudulently used.",4.0,"NSW Government -Department of Customer Service
-4.0",Sydney,0,1,134000.0,155000.0,144500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,1,134000.0,155000.0,144500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,741
 Graduate Data Scientist,$100K - $124K (Glassdoor Est.),"melbourne cbd & inner suburbs
 full time
 about the role:
 as a graduate data scientist you will contribute to the growth of scalene by supporting successful delivery of client work as a key member of project delivery teams and by helping to develop and implement internal strategic initiatives. your responsibilities will include:
 capture and document client requirements, and then translate them into an analytical roadmap / initiative
-prepare and analyse datasets and generate insights to help bring clients along the “project journey”",4.0,Scalene Group,Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+prepare and analyse datasets and generate insights to help bring clients along the “project journey”",4.0,Scalene Group,Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,535
 Data Scientist,$114K - $165K (Glassdoor Est.),"job number:
 92230-134340
 work type:
@@ -57,12 +57,12 @@ analyst
 location: brisbane
 remuneration/benefit: competitive remuneration available
 11 month fixed term contract",3.6,"Aurizon
-3.6",Brisbane,0,0,114000.0,165000.0,139500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Brisbane,0,0,114000.0,165000.0,139500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,201
 "Associate, Data & Analytics",$92K - $101K (Glassdoor Est.),"about qtc
 queensland treasury corporation (qtc) has been recognised as one of australia’s best places to work, winning multiple ‘employer of choice’ awards in recent years for professional development, employee benefits and culture.
 qtc is queensland’s central financing authority and provides financial, risk management and advisory services for the state. qtc manages the state’s funding program in the global capital markets to deliver sustainable and cost-effective borrowings for the queensland government, local governments and other clients.
 qtc protects queensland’s financial interests by helping to deliver innovative, long-term solutions that contribute to the growth of the queensland economy. it delivers better financial outcomes by centralising the management of its clients’ borrowings, cash investments, and foreign exchange requirements.",4.0,"Queensland Treasury Corporation
-4.0",Brisbane,0,0,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Brisbane,0,0,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,855
 Machine Learning Engineer,$95K - $129K (Glassdoor Est.),"job number:
 92080-135415
 work type:
@@ -74,13 +74,13 @@ analyst
 location: brisbane
 remuneration/benefit: competitive remuneration available + bonus incentives
 2-3 days/ week wfh available",3.6,"Aurizon
-3.6",Brisbane,0,0,95000.0,129000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Brisbane,0,0,95000.0,129000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,220
 Data Scientist,$103K - $124K (Glassdoor Est.),"melbourne cbd & inner suburbs
 full time
 about the role
 as a data scientist you will contribute to the growth of scalene by supporting successful delivery of client work as a key member of project delivery teams and by helping to develop and implement internal strategic initiatives. your responsibilities include:
 capture and document client requirements, and then translate them into an analytical roadmap / initiative
-prepare and analyse datasets and generate insights to help bring clients along the “project journey”",4.0,Scalene Group,Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+prepare and analyse datasets and generate insights to help bring clients along the “project journey”",4.0,Scalene Group,Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,520
 Data Scientist,$80K - $120K (Glassdoor Est.),"job no: 516599
 work type: permanent - full time
 location: vic
@@ -88,19 +88,19 @@ join cleanaway – make positive impact to the environment and australia!
 cleanaway is australia’s largest waste management organisation and we have been around in australia for over 50 years, delivering solutions that offer extraordinary benefits not just for our customers, but for our communities and environment we live in.
 you have probably seen us around in our blue trucks, collecting your rubbish, but we do so much more than that!
 we are looking for a data scientist to join our team in a full-time role to work on challenging and unique problems. we value diversity (having over 80 nationalities) and recognise the benefit inclusion brings both to us as a company, as well to our individual employees within cleanaway.",3.3,"Cleanaway
-3.3",Melbourne,0,0,80000.0,120000.0,100000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.3",Melbourne,0,0,80000.0,120000.0,100000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,788
 Position – Data Scientist,$80K - $155K (Glassdoor Est.),"location – sydney and digital / remote
 experience – minimum 8 years
 we are looking for a candidate with good command over r / python and in-depth knowledge and experience in machine learning, deep learning methods, algorithm design, analysis, development, and performance improvement. strong understanding of statistical and predictive modeling concepts, machine-learning approaches, clustering, classification, regression techniques, recommendation (collaborative filtering) algorithms and time series analysis.
 
 we are eager to hear from you if you have one of the below mentioned skills. send us your resume at careers@robonomics.ai",4.6,"Robonomics AI
-4.6",Sydney,0,0,80000.0,155000.0,117500.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.6",Sydney,0,0,80000.0,155000.0,117500.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,635
 Geospatial data scientist/developer,Employer Provided Salary:$106K - $115K,"acknowledgement of country
 csiro acknowledges the traditional owners of the land, sea and waters, of the area that we live and work on across australia. we acknowledge their continuing connection to their culture and pay our respects to their elders past and present. view our vision towards reconciliation
 child safety
 csiro is committed to the safety and wellbeing of all children and young people involved in our activities and programs. view our child safe policy.
 the opportunity",4.1,"CSIRO
-4.1",Brisbane,0,1,106000.0,115000.0,110500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.1",Brisbane,0,1,106000.0,115000.0,110500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,484
 Senior Data Scientist,$80K - $128K (Glassdoor Est.),"a new role = a new way to win together
 
 you belong at coles group where we look ahead, have a plan, and are up for the challenge. we learn and grow by taking career-defining opportunities and this one may just be your next.
@@ -108,14 +108,14 @@ you belong at coles group where we look ahead, have a plan, and are up for the c
 senior data scientist
 
 if you’re looking for a fresh start, you’ve come to the right place. we’re a large and iconic portfolio of trusted australian brands – which means there are always exciting challenges and career opportunities waiting for you.",3.6,"Coles Supermarkets
-3.6",Hawthorn East,0,0,80000.0,128000.0,104000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Hawthorn East,0,0,80000.0,128000.0,104000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,473
 Data Analytics Graduate,$89K - $98K (Glassdoor Est.),"at allianz, we care for all the things that make you, you. for feeling like you belong. for a place where learning never stops. for growing new skills and opening up exciting possibilities. for your curiosity to thrive and help transform an industry. and when life twists, there’s flex for balance and the support you need. so, come and share your ideas, give back and feel proud to be part of a company doing work that matters across climate change and mental health. let’s care for everyone’s tomorrow so we can create a better future together.
 we know that flexible work comes in different forms, that’s why we’re embracing hybrid teams - enabling employees to maintain a balance of working both in the office and remote, supporting the needs of both the business and individual.
 
 data analytics graduate | nsw – sydney
 be supported to grow and develop your career
 push the status quo",4.1,"Allianz Australia
-4.1",Sydney,0,0,89000.0,98000.0,93500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.1",Sydney,0,0,89000.0,98000.0,93500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,887
 Senior Data Scientist (R&D),$100K - $124K (Glassdoor Est.),"as a senior data scientist at mutinex, you build complex data models that will simplify marketing decision making for our customers. data is our product so your work is the forefront of the value we bring to our customers.
 
 you will work in r&d team, working alongside them to ensure the core model and data flows are well architected, before building out a new team focused on improving insights generated by the models.
@@ -127,11 +127,11 @@ role responsibilities include:
 
 
 
-you will work closely with the lead data scientist in our r&d team. initially you will be involved in onboarding customers and customer releases to to familiarise yourself with the core model and domain, then support the teams work to improve the model architecture and data flows.",,Mutinex,South Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+you will work closely with the lead data scientist in our r&d team. initially you will be involved in onboarding customers and customer releases to to familiarise yourself with the core model and domain, then support the teams work to improve the model architecture and data flows.",,Mutinex,South Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,830
 Data Scientist,$95K - $150K (Glassdoor Est.),"about us:
 the world needs smart food solutions that are friendly to the palate and the planet, but right now, plant-based and alternative protein products just don't stack up to the real thing.
 and that's where nourish comes in.
-our animal-free fats and oils make alternative proteins taste delicious. with our science, we can tailor flavour profiles that precisely reproduce the taste and mouthfeel of beef, chicken, fish, milk, cheese and beyond. products made with our fats are more than an alternative, they're a straight up improvement. backed by horizons ventures and main sequence ventures, nourish ingredients are a key player in the future of a smarter, more sustainable, and more diverse food system.",2.9,Nourish Ingredients,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+our animal-free fats and oils make alternative proteins taste delicious. with our science, we can tailor flavour profiles that precisely reproduce the taste and mouthfeel of beef, chicken, fish, milk, cheese and beyond. products made with our fats are more than an alternative, they're a straight up improvement. backed by horizons ventures and main sequence ventures, nourish ingredients are a key player in the future of a smarter, more sustainable, and more diverse food system.",2.9,Nourish Ingredients,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,710
 Data & Analytics Opportunities | Canberra,$56K - $84K (Glassdoor Est.),"date: 4 jul 2023
 
 location:
@@ -176,17 +176,17 @@ we embrace diversity, equity and inclusion. we have a diverse collection of peop
 we prioritise flexibility and choice. at deloitte, you get trust on day 1. we know our people get their best work done when they’re in control of where and how they work, designing their work week around their client, team and personal commitments.
 
 we help you live and work well. to support your personal and professional life, we offer a range of perks and benefits, including retail discounts, wellbeing leave, paid volunteering days, twelve flexible working options, market-leading parental leave and return to work support package.",4.0,"Deloitte
-4.0",Canberra,0,0,56000.0,84000.0,70000.0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4.0",Canberra,0,0,56000.0,84000.0,70000.0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,4133
 Junior Data Analyst/Scientist,$70K - $126K (Glassdoor Est.),"the international institute of data & analytics (ida) is a not-for-profit hi-tech organization with foci on data science and big data analytics innovation, education and training, and commercialization and services. ida offers unique experiences and engagement models for bridging the gaps between academia and business, enabling industry and government `easy to do business with’ leading scientists and specialists in data & analytics, and building a platform for engagements and collaborations between outstanding researchers, practitioners and educators.
 in data science and big data analytics, the ida creates enablers for:
-leading the field of data science and analytics innovation, training and services by building think-tank and thought leadership, and next-generation of data scientists and professionals;",4.1,International Institute of Data & Analytics,Sydney,0,0,70000.0,126000.0,98000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+leading the field of data science and analytics innovation, training and services by building think-tank and thought leadership, and next-generation of data scientists and professionals;",4.1,International Institute of Data & Analytics,Sydney,0,0,70000.0,126000.0,98000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,814
 Data Scientist (12 Month Fixed Term Contract),$164K - $170K (Glassdoor Est.),"company description
 
 are you ready to be a big part of something big?
 at carsales, we're all about making buying and selling a great experience. for 25 years we’ve been evolving with the new economy to help people choose how they move today and tomorrow.
 when it comes to your career, we want to provide big opportunities to help you make a big impact. but for this to be possible, we strive to feel small. small enough to quickly change tack, small enough to learn from different departments and small enough to connect authentically with leadership.
 not something you’d expect from one of the country’s biggest tech companies, is it?",4.3,"carsales
-4.3",Melbourne,0,0,164000.0,170000.0,167000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3",Melbourne,0,0,164000.0,170000.0,167000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,635
 AI Data Scientist,Employer Provided Salary:$125.00 - $137.50 Per hour,"immediate – ai data scientist – aud 1100 + super – 12 months – nsw government project
 
 role: ai data scientist
@@ -198,7 +198,7 @@ location: sydney / hybrid
 key responsibilities:
 collaborate with cross-functional teams to develop a comprehensive understanding of our data needs.
 develop / identify and implement innovative models.",5.0,"Talent Street
-5.0",Australia,1,1,240000.0,264000.0,252000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.0",Australia,1,1,240000.0,264000.0,252000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,388
 Data Scientist,$91K - $140K (Glassdoor Est.),"about the job data scientist
 job description ﻿data scientist in perth:
 required technical skill set - python, r, sql, shell scripting,, github/svn, teamcity or continuous integration tools, exposure to aws.
@@ -212,19 +212,19 @@ understanding in applying machine learning, deep learning, artificial intelligen
 exposure in developing data science projects which includes scoping, building, testing, implementation, maintenance, tracking and optimisation of models.
 
 understanding of techniques such as time series analytics, regression, confidence interval, bayesian and monte carlo methods, chi-square distribution",5.0,"Pyramid Global Technologies
-5.0",Perth,0,0,91000.0,140000.0,115500.0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+5.0",Perth,0,0,91000.0,140000.0,115500.0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,853
 Machine Learning Engineer,Employer Provided Salary:$102K - $115K,"(heo8) $102,266 to $114,731 per annum plus an employer contribution of 17% superannuation applies.
 offering a full-time, fixed term position for one year from date of commencement
 be part of a world class, outcome-based education and training centre within a ‘group of eight’ university!
 we are seeking a machine learning engineer to be part of aimls (australian institute for machine learning) award winning industry solutions team to develop machine learning algorithms, test, deliver and maintain software systems and work with leaders in artificial intelligence. the machine learning engineer will write production code, analyse data with machine learning algorithms, and work in a team to deliver machine learning systems.",3.9,"The University of Adelaide
-3.9",Adelaide,0,1,102000.0,115000.0,108500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.9",Adelaide,0,1,102000.0,115000.0,108500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,727
 Senior Research Statistician/Biostatistician,$81K - $128K (Glassdoor Est.),"the opportunity:
 we have an opportunity available for a senior research statistician to join our research data science team. you will provide scientific expertise in the area of biostatistics for a broad array of applications in pre-clinical research, focusing on the design, conduct and analysis of in vivo, in vitro and observational studies with research aims including indication selection, drug design and lead candidate selection, assay development and validation, mechanism of action, establishment of animal models, efficacy and safety, and comparison of in-house and competitor drug candidates.
 you will work closely with the global research data science group members and other csl colleagues to set and deliver on project objectives and to determine appropriate data generation, processing, and analysis strategies. you will also work alongside csl’s external collaborators to make recommendations on study design, execution and data analysis.",3.5,"CSL Behring
-3.5",Melbourne,0,0,81000.0,128000.0,104500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.5",Melbourne,0,0,81000.0,128000.0,104500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,senior,954
 Data Scientist,$41K - $82K (Glassdoor Est.),"we are looking for a data scientist to drive and built innovative data science solutions for rozetta’s diverse range of clients. you’ll be an integral part of the team and engage with clients across a range of project. you are great at cultivating relationships both internally and externally to implement impactful solutions to real world challenges.
 company overview
-rozetta technology is a world-leading big data and advanced analytics information architecture company, and an advanced aws consulting partner. our systems provide the bedrock of scalable, robust, and reliable data-focused software platforms. our projects shift perspectives to provide understanding and purpose to what was once just data. we exist to create value for our customers and to affect positive change in business, industry, economy, and society.",4.5,RoZetta Technology,Sydney,0,0,41000.0,82000.0,61500.0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+rozetta technology is a world-leading big data and advanced analytics information architecture company, and an advanced aws consulting partner. our systems provide the bedrock of scalable, robust, and reliable data-focused software platforms. our projects shift perspectives to provide understanding and purpose to what was once just data. we exist to create value for our customers and to affect positive change in business, industry, economy, and society.",4.5,RoZetta Technology,Sydney,0,0,41000.0,82000.0,61500.0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,826
 Principal Data Scientist,$168K - $240K (Glassdoor Est.),"principal data scientist
 506655
 sydney (eora nation), nsw, australia
@@ -232,25 +232,25 @@ melbourne (kulin nation), vic, australia
 data, analytics & statistics
 wagering & media
 permanent full-time",3.4,"Tabcorp
-3.4",Sydney,0,0,168000.0,240000.0,204000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.4",Sydney,0,0,168000.0,240000.0,204000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,175
 Graduate | Machine Learning Engineer,$95K - $159K (Glassdoor Est.),"please submit your cv and cover letter to careers@mindhive.org.
 machine learning engineer
 to advance mindhive by developing algorithms to build models that uncover connections and make better decisions without human intervention. mindhive has started to reimagine intelligence. forming a global mind from the most unusual suspects, who were in it for the ideas, not the glory. and finding a way that technology could enhance human minds, not replace them.
 more here: https://www.web.mindhive.org/careers
 role
-experimentation is at the core of what you do. the role is to work to turn business questions into data analysis effectively and provide meaningful recommendations. this unique hybrid role will focus on your data infrastructure knowledge and your ability to drive insights.",4.2,Mindhive,Brisbane,0,0,95000.0,159000.0,127000.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+experimentation is at the core of what you do. the role is to work to turn business questions into data analysis effectively and provide meaningful recommendations. this unique hybrid role will focus on your data infrastructure knowledge and your ability to drive insights.",4.2,Mindhive,Brisbane,0,0,95000.0,159000.0,127000.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,graduate,na,782
 Graduate | Data Science & Analytics [dm5j],Employer Provided Salary:$65K - $85K,"** this role is at asx (not for hatch)
 hatch is supporting asx to find a great graduate | data science & analytics to join their data and analytics team. hatch exists to level the playing field for people as they discover a career that’s right for them. we model this in our hiring process for our partners like asx.
 applying here is the first step in the hiring process for this role.
 about the role at asx
 your program will commence with an induction program, followed by your professional development, based on a three-phased building block approach of getting graduates established, building graduate competencies and rounding out with emerging graduate leaders. topics such personal brand, self-awareness, change & ambiguity, and critical thinking will help your career flourish. we will also upskill you in your financial markets knowledge, and support your further education in your chosen field.",4.0,"Hatch
-4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,903
 Graduate | Data Science & Insights [bda0],Employer Provided Salary:$65K - $85K,"** this role is at stockland (not for hatch)
 hatch is supporting stockland to find a great graduate | data science & insights to join their data and analytics team. hatch exists to level the playing field for people as they discover a career that’s right for them. we model this in our hiring process for our partners like stockland.
 applying here is the first step in the hiring process for this role.
 about the role at stockland
 as a data science & insights graduate, throughout your two years, you will contribute to a high performing team by conducting analysis and building business intelligence solutions to enhance business understanding of customer behaviours and needs, marketing performance, and data-driven decisions across all operational areas of the organisations.",4.0,"Hatch
-4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,778
 Data Scientist,$100K - $124K (Glassdoor Est.),"we are seeking a data scientist to join our data science and engineering stream within data insights unit. the first thing you will work on is extending the development of our first attack suppression model with a new dataset we have developed to better understand the probability a fire is suppressed. this position will provide technical support to a variety of projects, including lightning strike ignition, first attack probability of suppression, aircraft effectiveness, and the remote detection of fires. the role will pitch and develop projects aligned with ffr's strategic priority of leveraging science, technology, and data analytics to enhance preparedness, response and recovery, efficiency, and effectiveness to reduce bushfire risk.
 there are opportunities to undertake field work and nominate for an emergency management role.
 about you
@@ -272,25 +272,25 @@ applications close at midnight on monday, 31 july 2023.
 preferred candidates will be required to undertake pre-employment screening, including a declaration and consent form and a national police check.
 to be eligible for appointment to this role, applicants will possess corresponding work rights for the advertised employment period. appointment to an ongoing position is only available to an australian/new zealand citizen or an australian permanent resident.
 a diverse, inclusive and flexible workplace
-deeca welcomes applicants from a diverse range of backgrounds and we focus on the essential requirements of the job and being consistent and fair in our treatment of all applicants. we also understand that a balanced life is important to our employees. talk to us about our flexible options such as working some days from home, starting early or late, working part time, job sharing or accessing paid or unpaid leave.",4.0,"Department of Energy, Environment and Climate Action",Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+deeca welcomes applicants from a diverse range of backgrounds and we focus on the essential requirements of the job and being consistent and fair in our treatment of all applicants. we also understand that a balanced life is important to our employees. talk to us about our flexible options such as working some days from home, starting early or late, working part time, job sharing or accessing paid or unpaid leave.",4.0,"Department of Energy, Environment and Climate Action",Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,data scientist,na,3934
 Graduate Program | Data Science & Analytics [xw39],Employer Provided Salary:$65K - $85K,"** this role is at capgemini (not for hatch)
 hatch is supporting capgemini to find a great graduate program | data science & analytics to join their data and analytics team. hatch exists to level the playing field for people as they discover a career that’s right for them. we model this in our hiring process for our partners like capgemini.
 applying here is the first step in the hiring process for this role.
 about the role at capgemini
 in the yearlong graduate program, you’ll be shown the ropes through foundation masterclasses, then depending on your skillset you’ll be off doing project work – it could be software development if that’s your jam, or organisational change management or business analysis if that’s what your skills are aligned to.",4.0,"Hatch
-4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,1,65000.0,85000.0,75000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,753
 Computer Vision/Machine Learning Developer,$80K - $119K (Glassdoor Est.),"revolutionize computer vision technology with a laser focus on delivering cutting-edge commercial applications in real-time, real-world settings.
 seeking talented individuals experienced in real-time computer vision and image processing to work on innovative algorithms and products.
 join a dynamic and upbeat workplace, with flexible hours and absolutely no unpaid overtime!
 our office is located in port melbourne, a short distance from the melbourne cbd.
 what you'll do:
 develop and implement computer vision and/or machine learning algorithms to solve complex problems, using programming languages such as python, c++, or matlab.",4.5,"RunTime
-4.5",Melbourne,0,0,80000.0,119000.0,99500.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+4.5",Melbourne,0,0,80000.0,119000.0,99500.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,mle,na,633
 Associate Professor / Professor (Practice) - Artificial Intelligence and Data Science,Employer Provided Salary:$212K,"the opportunity
 working alongside the director, the associate professor/professor of practice in artificial intelligence and data science will be responsible for delivering advanced ai and data science in support of the monash data futures institute research programs. this role will enrich the institute’s research program by undertaking advanced data science and ai, working with researchers across all faculties and campuses to identify opportunities for and support integration of research across thematic areas. this role will act as a conduit between universities, government and the business community.
 the successful applicant will be responsible for, but not limited to:
 leading the artificial intelligence and data science project deliverables and plans for the monash data futures institute",4.2,"Monash University
-4.2",Clayton North,0,1,212000.0,212000.0,212000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Clayton North,0,1,212000.0,212000.0,212000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,na,801
 Machine Learning Modeler,$120K - $148K (Glassdoor Est.),"company description
 
 it all started with an idea at block in 2013. initially built to take the pain out of peer-to-peer payments, cash app has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including afterpay/clearpay, to provide a better way to send, spend, invest, borrow and save to our 47 million monthly active customers. we want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.
@@ -298,7 +298,7 @@ it all started with an idea at block in 2013. initially built to take the pain o
 today, cash app has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. we’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where cash app operates. no matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.
 
 check out our locations, benefits, and more at cash.app/careers.",3.7,"Afterpay
-3.7",Melbourne,0,0,120000.0,148000.0,134000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.7",Melbourne,0,0,120000.0,148000.0,134000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,994
 Data Scientist - 3 month contract,$95K - $150K (Glassdoor Est.),"this is a 3 month contract with every chance to extend or potential convert into a permanent role.
 
 if you're a data scientist with a passion for integrating modelling to new businesses. you thrive in deploying solutions to complex data. if this sounds like you, read on.
@@ -308,7 +308,7 @@ our data scientists also work alongside our research data science, data engineer
 
 maybe you are a data scientist with an interest in marketing, mmm or bayesian models that wants to explore and better connect our customers' domains to our product, growthos.
 
-our customers are from a range of sectors including financial services, retail and fmcg and continuing to expand regularly.",,Mutinex,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+our customers are from a range of sectors including financial services, retail and fmcg and continuing to expand regularly.",,Mutinex,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,973
 Artificial Intelligence & Machine Learning Graduate February 2024,$76K - $135K (Glassdoor Est.),"sa, adelaide
 software engineering
 13570br
@@ -316,7 +316,7 @@ about us:
 lockheed martin is a leader in australia's national security, and our collaboration with australian industry spans the aeronautics, maritime, surveillance and defence domains.
 
 at lockheed martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges. every day, our employees come to work with one focus – our customers' missions. whether it's protecting citizens or advancing the boundaries of science, these missions are some of the most important and challenging in the world.",4.1,"Lockheed Martin Australia
-4.1",Adelaide,0,0,76000.0,135000.0,105500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.1",Adelaide,0,0,76000.0,135000.0,105500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,graduate,na,591
 AI Data Scientist - Artificial Intelligence Engineer,Employer Provided Salary:$125.00 - $152.63 Per hour,"be a part of a pioneer ai program similar to chatgpt.
 mostly wfh (visit the office once or twice a month);
 $1000 to $1221 per day negotiable;
@@ -340,7 +340,7 @@ desirable but not essential experience:
 
 if you meet the above criteria you will need to in order to secure a place in the shortlist for the interviews.
 
-best option is to apply using the application button. you can contact us on (02) 9687 1068 for a confidential discussion. however please ensure you have sent your resume prior to making contact.",,Infinity Pro,Sydney,1,1,240000.0,293049.6,266524.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+best option is to apply using the application button. you can contact us on (02) 9687 1068 for a confidential discussion. however please ensure you have sent your resume prior to making contact.",,Infinity Pro,Sydney,1,1,240000.0,293049.6,266524.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,1628
 Data Scientist (6 month contract),$110K - $132K (Glassdoor Est.),"data scientist (6 month contract)
 company
 munich re
@@ -348,7 +348,7 @@ location
 sydney , australia
 munich reinsurance company of australasia limited (mra) is the apra authorised life insurer in australia. mra is part of the wider life asia pacific division, with its hub in singapore. the purpose of the business is to drive sustainable life insurance with our clients for our community.
 the experience analysis and terms of trade produces biometric analyses of the life business experience using detailed knowledge of the life insurance market and actuarial practice. the vision of the team is to be seen as a key contributor of valuable insights which can be used to manage and drive the business to be more successful.",4.2,"Munich Re
-4.2",Sydney,0,0,110000.0,132000.0,121000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Sydney,0,0,110000.0,132000.0,121000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,702
 Data Scientist,$95K - $150K (Glassdoor Est.),"if you're a data scientist with a passion for integrating modelling to new businesses. you thrive in deploying solutions to complex data. if this sounds like you, read on.
 
 we are looking for both mid & senior data scientists so if you're a senior reading this and looking for a senior title & package, that's definitely on offer.
@@ -356,14 +356,14 @@ our data scientists also work alongside our research data science, data engineer
 
 maybe you are a data scientist with an interest in marketing, mmm or bayesian models that wants to explore and better connect our customers' domains to our product, growthos.
 
-our customers are from a range of sectors including financial services, retail and fmcg and continuing to expand regularly.",,Mutinex,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+our customers are from a range of sectors including financial services, retail and fmcg and continuing to expand regularly.",,Mutinex,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,873
 Machine Learning Engineer,Employer Provided Salary:$120K - $170K,"mathspace is on a mission to change maths education, by helping students and teachers with smarter, interactive learning software.
 we’re an agile run, product-orientated company that focuses on delivering value through continual customer feedback, enabling students and teachers to have a delightful experience through learning mathematics.
 as an ml engineer working on a research-oriented product team, you will:
 work closely with our product manager and infrastructure teams
 improve the ml systems that include diagnosing student ability, estimating student knowledge profiles and recommending appropriate topics
 enrich the mathspace web and mobile apps that help teach hundreds of thousands of students every month across the world",4.3,"Mathspace
-4.3",Sydney,0,1,120000.0,170000.0,145000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3",Sydney,0,1,120000.0,170000.0,145000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,734
 Associate Director – Data & Analytics,$150K (Glassdoor Est.),"the purpose of this role is to facilitate delivery of best in class analytic and data assessments and roadmaps per established processes and templates in concert with other business disciplines, to manage and develop the team and serve as a point of escalation as needed.
 job title:
 associate director – data & analytics
@@ -374,7 +374,7 @@ melbourne - 510 church street
 carat
 full time
 permanent",3.7,"Dentsu Aegis Network
-3.7",Melbourne,0,0,150000.0,150000.0,150000.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3.7",Melbourne,0,0,150000.0,150000.0,150000.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,980
 Computer Vision/Machine Learning Software Engineer C++/Python,$90K - $148K (Glassdoor Est.),"did you get into development to make the next newest and coolest application that makes people go ""wow"" ? good, read on...
 algorithmic creative software work
 high tech, innovative data science mechatronics startup
@@ -389,7 +389,7 @@ one of sydney's most innovative startups is looking for an engineer with a parti
 whats on offer?
 what are they looking for?
 please apply directly or send me an email at michael@mantechit.com.au for a chat, thank you",4.0,"Mantech
-4.0",Sydney,0,0,90000.0,148000.0,119000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,0,90000.0,148000.0,119000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,844
 Senior Machine Learning Engineer - Computer Vision,$163K - $190K (Glassdoor Est.),"as part of the ai research and deployment team, you’ll be helping make this the best place in the world to do applied ai.
 
 \ud835\uddb6\ud835\uddc1\ud835\uddd2 join us?
@@ -399,17 +399,17 @@ Senior Machine Learning Engineer - Computer Vision,$163K - $190K (Glassdoor Est.
 \ud83c\udf1fwork with a bunch of awesome, genuine people who are passionate about what they do.
 \ud83d\udcbb flexible and remote-friendly working
 \ud83d\ude80make a real impact. you won’t be another ‘cog in the wheel’ here. we give full trust and autonomy for you to be heard, to work on the big hairy projects – and to make a real difference.",4.2,"Harrison.ai
-4.2",Sydney,0,0,163000.0,190000.0,176500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Sydney,0,0,163000.0,190000.0,176500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,845
 Senior Data Analyst/Scientist,$70K - $126K (Glassdoor Est.),"the international institute of data & analytics (ida) is a not-for-profit hi-tech organization with foci on data science and big data analytics innovation, education and training, and commercialization and services. ida offers unique experiences and engagement models for bridging the gaps between academia and business, enabling industry and government `easy to do business with’ leading scientists and specialists in data & analytics, and building a platform for engagements and collaborations between outstanding researchers, practitioners and educators.
 in data science and big data analytics, the ida creates enablers for:
-leading the field of data science and analytics innovation, training and services by building think-tank and thought leadership, and next-generation of data scientists and professionals;",4.1,International Institute of Data & Analytics,Sydney,0,0,70000.0,126000.0,98000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+leading the field of data science and analytics innovation, training and services by building think-tank and thought leadership, and next-generation of data scientists and professionals;",4.1,International Institute of Data & Analytics,Sydney,0,0,70000.0,126000.0,98000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,senior,814
 Data Scientist,$95K - $150K (Glassdoor Est.),"posted date 12 september 2022
 location sydney
 industry data science
 contact name chris gray
 contact email chris@skltechnology.com.au
 permanent roles within a dynamic insurance business | opportunity to work on projects across a number of divisions
-our client has approval for a number of data scientist & senior data scientist roles within their group data division. the team is currently 4 in size and they are looking to double due to an increasing need to develop their machine learning and deep learning capabilities. they are looking for a mix of experience levels and technical strengths.",,SKL Actuarial,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+our client has approval for a number of data scientist & senior data scientist roles within their group data division. the team is currently 4 in size and they are looking to double due to an increasing need to develop their machine learning and deep learning capabilities. they are looking for a mix of experience levels and technical strengths.",,SKL Actuarial,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,594
 Principal Applied Scientist/Machine Learning Engineer,Employer Provided Salary:$260K - $300K,"company description
 
 jobs for humanity is dedicated to building an inclusive and just employment ecosystem. therefore, we have dedicated this job posting to individuals coming from the following communities: refugee, neurodivergent, single parent, blind or low vision, deaf or hard of hearding, black, hispanic, asian, military veterans, the elderly, the lgbtq, and justice impacted individuals. if you identify with any of the following communities do not hesitate to register.
@@ -423,11 +423,11 @@ about rokt
 about the role
 
 responsibilities",4.0,"Rokt
-4.0",Sydney,0,1,260000.0,300000.0,280000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,1,260000.0,300000.0,280000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,561
 Machine Learning Engineer,$86K - $150K (Glassdoor Est.),"summary
 beyond zero technology is seeking an experienced machine learning engineer to join their team and contribute to the development and deployment of machine learning models and algorithms. the ideal candidate should have a strong background in machine learning, programming skills, and the ability to collaborate with cross-functional teams to optimise model performance and enhance the company's ai capabilities.
 about us
-we are an advanced technology solutions company based in melbourne's east. delivering innovative and advanced commercial software solutions to some of the most well known australian and global businesses. our organisation is rapidly growing, and we are looking for a promising young and experienced individual to grow along with us.",,Beyond Zero Technologies,Vermont,0,0,86000.0,150000.0,118000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+we are an advanced technology solutions company based in melbourne's east. delivering innovative and advanced commercial software solutions to some of the most well known australian and global businesses. our organisation is rapidly growing, and we are looking for a promising young and experienced individual to grow along with us.",,Beyond Zero Technologies,Vermont,0,0,86000.0,150000.0,118000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,760
 Senior Data Scientist,$131K - $149K (Glassdoor Est.),"primary details
 time type: full time
 worker type: employee
@@ -439,13 +439,13 @@ permanent position with flexible location
 your new role
 we have an exciting opportunity for a senior data scientist to join our team. reporting into the head of analytics, you will be responsible for applying scientific principles to business processes and decisions to improve the quality and performance of various business units, translate the decision-making needs and timeframes of internal business unit stakeholders into data driven, analytically tractable and scientifically provable problems and apply scientific methods and big data tools to resolve them. you will be sourcing and integrating relevant data and collaborating with technical and sme peers as required; and communicate results, findings, and recommendations back to business owners with actionable timeframes.
 application close date: 26/07/2023 11:59 pm",4.0,"QBE
-4.0",Sydney,0,0,131000.0,149000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,0,131000.0,149000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,1057
 Lead Data Scientist,$103K - $124K (Glassdoor Est.),"lead data scientist
 as a lead data scientist, you will be responsible for developing and implementing data science strategy – which spans analytics through to machine learning across product development, performance improvement and risk management.
 if you’re driven to succeed, have a desire to provide exceptional service and want to work for a company you’d be proud to tell your friends about; this is the perfect opportunity for you.
 
 responsibilities
-data strategy",,DNA Talent,Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+data strategy",,DNA Talent,Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,469
 Data Scientist,$103K - $124K (Glassdoor Est.),"multiple positions
 ongoing, long-term contract
 remote working option
@@ -460,14 +460,14 @@ as a data scientist you will be at the forefront of driving data-centric decisio
 
 
 if the above sounds like something you’d be interested in, please hit apply now or alternatively send your updated cv to maaz@technologypeople.com.au.",4.0,"Technology People Australia
-4.0",Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Melbourne,0,0,103000.0,124000.0,113500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,700
 "Consultant, Data & Analytics",$65K - $95K (Glassdoor Est.),"want to bring ideas to life?
 you’re in the right place. if you’re looking for a fresh challenge, why choose aurecon? it comes down to one, crucial question. what kind of world do you want to create for the next generation? truth is, the decisions being made right now will determine the future of everything – from the local community to the entire planet. one of those decisions is: who do you decide to work for?
 how will your ideas contribute to shaping what’s next?
 as a consultant in data & analytics you will work with stakeholders from a variety of industries, such as water and engineering to analyse, interpretate and manipulate different types of data.
 your role will include:
 embrace explorative techniques to analyse and manipulate large datasets and automate the processes using python",3.8,"Aurecon Group
-3.8",Melbourne,0,0,65000.0,95000.0,80000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.8",Melbourne,0,0,65000.0,95000.0,80000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,798
 Technology Specialist Machine Learning,$168K - $214K (Glassdoor Est.),"why microsoft
 
 microsoft’s mission is to empower every person and every organization on the planet to achieve more. as employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
@@ -486,7 +486,7 @@ this role sits in our global black belt (gbb) organization, which is a team of h
 
 
 microsoft is an equal opportunity employer. consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",4.3,"Microsoft
-4.3",Sydney,0,0,168000.0,214000.0,191000.0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4.3",Sydney,0,0,168000.0,214000.0,191000.0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,mle,na,1758
 Deep Learning Software Engineer,$140K - $182K (Glassdoor Est.),"the deep learning software engineer will work in a small and dynamic team to design and implement state of the art machine learning and computer vision algorithms, including detection and classification techniques spanning a range of sensor modalities.
 key qualification:
 understanding of state of the art deep learning techniques
@@ -494,11 +494,11 @@ experience in productising deep learning and/or computer vision algorithms
 expert knowledge and experience with developing algorithms that must run efficiently on resource constrained platforms
 excellent programming skills of c/c++ and possibly python
 experience with socor/and gpu acceleration",4.7,"BI Group
-4.7",Melbourne,0,0,140000.0,182000.0,161000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+4.7",Melbourne,0,0,140000.0,182000.0,161000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,mle,na,625
 Senior Machine Learning Engineer (Computer Vision),$97K - $114K (Glassdoor Est.),"anduril is a defence technology company, bringing silicon valley talent and funding to the defence sector. our technology helps our customers solve their toughest challenges by enabling them to make better, more informed decisions in life-and-death situations. we’ve assembled a diverse team of experts in artificial intelligence, computer vision, sensor fusion, optics, and data analysis to create software and hardware solutions that radically evolve the defence capabilities of the united states, and are now seeking to replicate our successes internationally with a team based in australia. if you are passionate about solving problems that have real impact, we want you to join anduril and help us build the future of defence capability.
 
 at anduril australia we are developing unmanned systems for subsurface and other domains that will leverage unsupervised autonomy for the delivery of long endurance, multi-mission capability to our customers. these projects, including but not limited to the extra large autonomous undersea vehicle (xl-auv) program, require a senior machine learning engineer with deep experience developing, testing, validating and deploying machine-learning based sensor processing and the technical toolchains they rely on. the senior machine learning engineer strives to leverage their experience to rapidly architect, design, deliver, support, and evolve next generation autonomous vehicles through the entire product life-cycle.",4.6,"ANDURIL INDUSTRIES
-4.6",Sydney,0,0,97000.0,114000.0,105500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.6",Sydney,0,0,97000.0,114000.0,105500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,1461
 Casual Lecturer | Data Science,$54K - $81K (Glassdoor Est.),"james cook university brisbane is a campus of james cook university operated in partnership with russo higher education pty ltd. our queen street campus offers both undergraduate and postgraduate programs in a range of business disciplines to international full fee paying students from a range of home countries.
 
 jcu brisbane has forged a reputation for making students job-ready in it, data science, business, education, and tourism. according to the 2023 good universities guide, jcu is number one in queensland for graduate starting salary and full-time employment outcomes for graduates. the brisbane campus began operations in 2006 and is one of the four campuses of jcu.
@@ -512,7 +512,7 @@ we embrace the diversity of our people and flexible working arrangements to ensu
 to be eligible for this position you must have an appropriate visa to work in australia/new zealand.
 
 only shortlisted applicants will be contacted.",2.7,"Sarina Russo
-2.7",Brisbane,0,0,54000.0,81000.0,67500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.7",Brisbane,0,0,54000.0,81000.0,67500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,na,1505
 "Professor in A.I & Machine Learning/Professor, Associate Professor & Senior Lecturer in Software Engineering",Employer Provided Salary:$128K,"job no: 542570
 work type: full-time
 location: geelong - waurn ponds, melbourne - burwood
@@ -520,7 +520,7 @@ categories: engineering
 professor in artificial intelligence and machine learning/professor in software engineering/associate professor in software engineering / senior lecturer in software engineering
 deakin is serious about growth and is seeking leaders in the disciplines of software engineering, and ai & machine learning who have the ambition to lead innovation in education and employability, research and industry engagement.
 the school of information technology is positioned at the cutting edge of future industries and is home to three of the country’s leading it strategic research centres:",4.2,"Deakin University
-4.2",Melbourne,0,1,128000.0,128000.0,128000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Melbourne,0,1,128000.0,128000.0,128000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,690
 Software Engineer – Machine Learning & Optimisation,$80K - $100K (Glassdoor Est.),"company description
 
 bluescope is an australian-born, global success story, spanning 18 countries, with a team of over 15,000 people. we’re driven by innovation and are proud that the technologies in our products and brands, like colorbond® steel, inspire and protect everything from hospitals and bridges to stadiums and homes.
@@ -528,7 +528,7 @@ bluescope is an australian-born, global success story, spanning 18 countries, wi
 job description
 
 want to solve software problems as well as manufacturing and business problems? do you enjoy problem solving and analytics as much as you do writing code?",3.6,"BlueScope
-3.6",Melbourne,0,0,80000.0,100000.0,90000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Melbourne,0,0,80000.0,100000.0,90000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,501
 Senior Machine Learning Engineer - Deep Learning & Computer Vision,$163K - $190K (Glassdoor Est.),"as part of the ai research and deployment team, you’ll be helping make this the best place in the world to do applied ai.
 
 \ud835\uddb6\ud835\uddc1\ud835\uddd2 join us?
@@ -538,7 +538,7 @@ Senior Machine Learning Engineer - Deep Learning & Computer Vision,$163K - $190K
 \ud83c\udf1fwork with a bunch of awesome, genuine people who are passionate about what they do.
 \ud83d\udcbb flexible and remote-friendly working
 \ud83d\ude80make a real impact. you won’t be another ‘cog in the wheel’ here. we give full trust and autonomy for you to be heard, to work on the big hairy projects – and to make a real difference.",4.2,"Harrison.ai
-4.2",Sydney,0,0,163000.0,190000.0,176500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Sydney,0,0,163000.0,190000.0,176500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,845
 Research Fellow in AI Planning and Machine Learning,Employer Provided Salary:$107K - $122K,"551470
 canberra / act, act, australia, 2601
 fixed term
@@ -548,7 +548,7 @@ classification: academic level b
 salary package: $107,475- $121,857 plus 17% superannuation
 term: full time, fixed term (up to 2.5 years)
 join the top research university in australia",4.0,"Australian National University
-4.0",Canberra,0,1,107000.0,122000.0,114500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Canberra,0,1,107000.0,122000.0,114500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,282
 Senior Machine Learning Scientist,Employer Provided Salary:$190K,"looking for an exciting opportunity to work with a company that is revolutionizing the world of artificial intelligence?
 
 join a rapidly growing, innovative tech company at the forefront of the industry. an opportunity to work on cutting-edge technologies and help drive real-world business outcomes for clients.
@@ -565,7 +565,7 @@ awesome and supportive team culture
 
 
 • experience with other artificial intelligence technologies (knowledge engineering, planning and • scheduling, distributed ai, and multi-agent systems) is a plus.",4.5,"RunTime
-4.5",Adelaide,0,1,190000.0,190000.0,190000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.5",Adelaide,0,1,190000.0,190000.0,190000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,631
 Machine Learning Data Engineer,$91K - $134K (Glassdoor Est.),"george weston foods make and supply some of australia & new zealand's favourite and most innovative brands and products. gwf's product range is diverse and includes leading brands of breads, baked goods, smallgoods, dips, flour, milled products, animal feed and hygiene solutions. we are one of anz's largest food manufacturers employing over 6000 people, across 50+ sites.
 gwf is a wholly owned subsidiary of associated british foods plc, a diversified international food, ingredients and retail group with sales of £15.4bn, 133,000 employees and operations in 53 countries around the world.
 the role: reporting to the gwf head of advance analytics & b.i., this role will support gwf business units to develop and mature their advance analytical capabilities through development of machine learning, data pipeline integration activities and the development/maintenance of machine learning models.
@@ -574,7 +574,7 @@ on a day-to-day basis, you will:
 
 you'll join a supportive team where you can broaden your experience in a fast-paced environment. we offer a competitive remuneration package, flexible work environment, free product daily, company paid parental leave, income protection insurance through our default super fund, discounted private health insurance, access to novated leasing and study assistance.
 sound like a good fit? apply now.. we'd love to hear from you! our people are the heart of business and are led by our four key values; safe, courageous, trusting and collaborative. by supporting their ability to work effectively and providing them with the tools they need to succeed, we are ensuring that we are the kind of company where talented people of all backgrounds want to work. across our organisation, we're creating a workplace where collaboration is important, courage is rewarded, trust is expected, and a strong safety mindset is the norm.",3.7,"GWF
-3.7",Sydney,0,0,91000.0,134000.0,112500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.7",Sydney,0,0,91000.0,134000.0,112500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,1851
 Senior Data Scientist - 12 month Fixed Term (Maternity Leave Cover),$100K - $120K (Glassdoor Est.),"12 month fixed term (maternity leaver cover)
 be part of one of the most innovative companies in australia
 a place to be yourself and thrive professionally and personally
@@ -582,11 +582,11 @@ recognised as a top 10 place to work for women (by work180) & top 25 companies f
 
 about us
 sportsbet is a leading australian e-commerce business in the online wagering sector, bringing excitement to over 2 million aussies. we do this by living our values to create an innovative entertainment brand, trailblazing products and best-in-class platforms that deliver great experiences to our customers.",4.0,"Sportsbet
-4.0",Melbourne,0,0,100000.0,120000.0,110000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Melbourne,0,0,100000.0,120000.0,110000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,603
 Computer Vision & Machine Learning Engineer 80-100% (m/f/d),$86K - $150K (Glassdoor Est.),"zollikofen, bern
 jetzt bewerben
 we are one of the international market leaders for intelligent people flow solutions and meet challenges at airports, in retail, transportation and building management. our in-house, swiss made hardware and software for precise people counting optimize people flow while respecting data privacy. we are committed to the success of our customers and create a sense of safety and comfort for people on the move. our highly precise 3d stereo vision technology in combination with ai is the foundation for our success. while xovis consists 130 crew members worldwide, we have kept our start-up spirit.",3.3,"Xovis AG
-3.3",Research,0,0,86000.0,150000.0,118000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.3",Research,0,0,86000.0,150000.0,118000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,629
 Senior Machine Learning Engineer,$168K - $216K (Glassdoor Est.),"primary details
 time type: full time
 worker type: employee
@@ -598,7 +598,7 @@ permanent full time position with flexible location
 your new role
 this is a career defining opportunity for an experienced senior machine learning engineer to join qbe insurance's growing data and analytics team. reporting into the head of analytics, you will be responsible for delivering data science solutions to optimise business processes and providing decision support to improve the quality and performance of various business units. as part of a high performing data science team you will drive standards for ml ops and best practice data engineering, ensuring solutions are production quality and meet business needs. you will provide thought leadership on how to scale analytics solutions, design architectures, and communicate complex solutions to stakeholders in the business, it and digital teams.
 application close date: 26/07/2023 11:59 pm",4.0,"QBE
-4.0",Sydney,0,0,168000.0,216000.0,192000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.0",Sydney,0,0,168000.0,216000.0,192000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,1076
 "Senior Associate, Finance Data Science",$103K - $119K (Glassdoor Est.),"work type: permanent full time
 location: nsw- sydney cbd
 finance people play a pivotal role in ensuring that our customers are at the centre of everything we do.
@@ -606,10 +606,10 @@ your contribution is what matters, not your background.
 you’ll have consistent, open, and targeted development conversations, driven at your desired pace.
 it’s more than a career at nab. it’s about more opportunity, more moments to make a difference and more focus on you.
 your job is just one part of your life. when you bring your ideas, energy, and hunger for growth to us, you’ll be recognised and rewarded for your contribution in return. you’ll have our support to excel for our customers, deliver positive change for our communities and grow your career.",3.9,"NAB - National Australia Bank
-3.9",Sydney,0,0,103000.0,119000.0,111000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3.9",Sydney,0,0,103000.0,119000.0,111000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,na,senior,723
 Expressions of Interest - Data & Machine Learning Consultant,Employer Provided Salary:$100K,"daimlinc is a cloud, data and machine learning consulting firm based in sydney. with a wealth of experience, we excel in developing secure, high-performing, and scalable data, ai, and ml solutions tailored to the needs of large global enterprises. our team is dedicated to assisting organizations in making intelligent, data-driven decisions by effectively interpreting their data and transforming it into valuable, actionable insights. we take pride in our ability to deliver meaningful information that drives impactful outcomes.
 as trusted partners of aws and databricks, we are actively seeking skilled data & machine learning consultants to join our team in sydney. join us and become part of our collaborative team of experts dedicated to delivering innovative solutions in the field of data and machine learning.
-about the role:",,Daimlinc,Sydney,0,1,100000.0,100000.0,100000.0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+about the role:",,Daimlinc,Sydney,0,1,100000.0,100000.0,100000.0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,mle,na,835
 Lecturer or Senior Lecturer in Data Science,Employer Provided Salary:$103K - $122K,"reference number223140 - lecturer or senior lecturer in data science
 lecturer/senior lecturer in data science
 school of science & technology - sabl
@@ -619,12 +619,12 @@ plus 17% employer superannuation
 salary packaging options are available
 relocation assistance provided
 location: armidale or parramatta",2.9,"University of New England (UNE)
-2.9",Armidale,0,1,103000.0,122000.0,112500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.9",Armidale,0,1,103000.0,122000.0,112500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,senior,383
 Staff/Principal Machine Learning Engineer,Employer Provided Salary:$170K - $220K,"mutinex is a startup b2b saas platform that provides in-depth data analytics for marketers to better understand their roi and make better decisions with future spend.
 founded in australia and with recent seed capital ($5 million, backed by evp) we are growing our team to continue to improve our product, bring in new customers and increase our customer satisfaction.
 we are a hybrid work environment with no set or minimum days in office and with teams in sydney, melbourne and expanding into the us soon.
 the role
-this role will lead the machine learning engineering area at mutinex and as the owner of ml related infrastructure and pipelines, you will ensure the data scientists are able to experiment, train and deploy models with minimal friction.",,Mutinex,Redfern,0,1,170000.0,220000.0,195000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+this role will lead the machine learning engineering area at mutinex and as the owner of ml related infrastructure and pipelines, you will ensure the data scientists are able to experiment, train and deploy models with minimal friction.",,Mutinex,Redfern,0,1,170000.0,220000.0,195000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,752
 Artificial Intelligence / Machine Learning,$103K - $161K (Glassdoor Est.),"location:
 canberra
 salary:
@@ -639,7 +639,7 @@ deadline:
 july 30, 2023
 job level:
 sfia 5",5.0,"Illuminated Solutions
-5.0",Canberra,0,0,103000.0,161000.0,132000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.0",Canberra,0,0,103000.0,161000.0,132000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,170
 APS Level 5 - Statistical Analyst/Statistician,Employer Provided Salary:$81K - $88K,"job reference number 23-bidiv-18706
 classification aps level 5
 job title statistical analyst/statistician
@@ -656,7 +656,7 @@ applicants must be an australian citizen at the time an offer of employment is m
 variety of pre-employment check processes, such as:
 working with children and vulnerable people check.
 required).",3.4,"National Health Funding Body
-3.4",Canberra,0,1,81000.0,88000.0,84500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.4",Canberra,0,1,81000.0,88000.0,84500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,512
 Engineering Manager - Editing AI (BE/Machine Learning),$140K - $170K (Glassdoor Est.),"join the team redefining how the world experiences design.
 
 hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
@@ -667,7 +667,7 @@ thanks for stopping by. we know job hunting can be a little time consuming and y
 where and how you can work
 
 our flagship campus is in sydney. we also have a campus in melbourne and co-working spaces in brisbane, perth and adelaide. but you have choice in where and how you work. that means if you want to do your thing in the office (if you're near one), at home or a bit of both, it's up to you.",4.4,"Canva
-4.4",Sydney,0,0,140000.0,170000.0,155000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.4",Sydney,0,0,140000.0,170000.0,155000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,593
 Azure Platform Engineer (Data & Analytics),$48K - $127K (Glassdoor Est.),"canberra and remote working
 department of agriculture, water and the environment
 one of our federal government clients is looking for azure platform engineer (data & analytics) in canberra and remote working.
@@ -675,25 +675,25 @@ we are looking for the following skills/experience:
 experience designing, building and maintaining cloud hosted platforms and services (infrastructure, platform and software as a service).
 experience developing, implementing, and supporting cloud infrastructure using an infrastructure as code (iac) approach.
 experience working in data and analytics focused projects (data engineering, storage or data science).",3.8,"IT Alliance Australia
-3.8",Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.8",Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,621
 CSIRO Postdoctoral Fellowship in Fairness Research in Machine Learning (FairML),Employer Provided Salary:$92K - $101K,"acknowledgement of country
 csiro acknowledges the traditional owners of the land, sea and waters, of the area that we live and work on across australia. we acknowledge their continuing connection to their culture and pay our respects to their elders past and present. view our vision towards reconciliation
 child safety
 csiro is committed to the safety and wellbeing of all children and young people involved in our activities and programs. view our child safe policy.
 the opportunity",4.1,"CSIRO
-4.1",Melbourne,0,1,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.1",Melbourne,0,1,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,484
 Senior Data Scientist,$110K - $165K (Glassdoor Est.),"gumgum is a contextual-first, global digital advertising platform that uses advanced ai technology to serve captivating creative ads that drive consumer attention, without the use of personal data. at gumgum, we don't need to know who you are to deliver relevant and engaging ads that align with your active frame of mind. we believe that a digital advertising industry based on context rather than personal data builds a more equitable and less invasive future for the internet and is better for consumers, publishers and advertisers alike. our blueprint for the future, the mindset matrix™, combines the power of context and creative in digital advertising to deliver superior attention and drive consumer action without sacrificing personal data.
 to be a part of this next phase of digital advertising that prioritizes data privacy, please visit www.gumgum.com/careers
 the role is responsible for developing machine learning and optimisation processes and integrating them into the advertising delivery stack. these processes use historical advertising campaign data to help match ads to urls for the purposes of increasing the visual attention given to our client's ads. they need to balance a range of other constraints about both the cost of media inventory and the set of competing ad campaigns that need to be delivered.",4.4,"GumGum
-4.4",Sydney,0,0,110000.0,165000.0,137500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.4",Sydney,0,0,110000.0,165000.0,137500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,1328
 Senior Data Scientist,Employer Provided Salary:$180K,"data scientist (senior)
 salary: $180k package
 location: sydney, cbd (hybrid)
 
 i am looking for an experienced data scientist with proven success in driving development and adoption of machine learning and analytics across the organisation to improve business outcomes.
 the senior data scientist is a key transformational role, helping drive the development & adoption of machine learning & analytics across the enterprise. as a key member of my clients data science chapter, you will support the ideation, build, development, deployment and drive the adoption of data science within the organisation. you will be joining a team with a phenomenal culture, where an innovative and entrepreneurial mindset is openly celebrated and supported.",4.2,"Charterhouse
-4.2",Sydney,0,1,180000.0,180000.0,180000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Data Scientist (Advanced Analytics),$95K - $150K (Glassdoor Est.),"job tasks and responsibilities about the role: work with customers to identify opportunities where artificial intelligence (ai), machine learning (ml), and advanced analytics (aa) can be applied to data and solve the customers pain points. individually or collaborate with other team members to develop ai/ml/aa prototypes/proof-of-concept/proof-of-value to derive actionable insights from data. collaborate with the customers and internal stakeholders to architect the overall supporting storage and compute infrastructure to support the deployment of the ai/ml/aa models, applications, and visualisation of the results. collaborate with the relevant project managers to conceptualise, develop project scope, requirements, budget, and timeline for the implementation of the identified ai/ml/aa projects. implement the ai/ml/aa projects and to ensure that the projects' ai/ml/aa objectives are met. skills and experience to be considered for this role, you should have the following skills and qualifications:- bachelors (honours) in computer science, information system, statistics, applied mathematics, operations research, or related disciplines. 10+ years experience in artificial intelligence (ai), machine learning (ml) and advanced analytics (aa) domain experience in public safety, defence, transport, education and healthcare are highly desirable. smart city, social media and procurement domain experience in ai, ml, aa also highly desirable. experience with large data sets, including statistical analyses, data visualization, data mining and data cleansing/transformation and machine learning experience in solutions using technologies such as hadoop/hive/hbase/nosql and developer skills in python, perl, and java are highly desired good technical understanding on big data architectures (hadoop, mpp, in-database) predictive analytics and machine learning general data science familiarity with statistical software and programming language: sas, spss, sql, stata, r & python (at least 2 desirable) if you are interested please share your cv via resume@mindcloud.com.au in ms word format along with your visa status, notice period , only au citizen or pr will be considered. we do have other roles available and all roles have to be filled in june. for more jobs details please visit our website: www.mindcloud.com.au or reach us via resume@mindcloud.com.au",,Mindcloud Consultants,Sydney,0,0,95000.0,150000.0,122500.0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+4.2",Sydney,0,1,180000.0,180000.0,180000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,738
+Data Scientist (Advanced Analytics),$95K - $150K (Glassdoor Est.),"job tasks and responsibilities about the role: work with customers to identify opportunities where artificial intelligence (ai), machine learning (ml), and advanced analytics (aa) can be applied to data and solve the customers pain points. individually or collaborate with other team members to develop ai/ml/aa prototypes/proof-of-concept/proof-of-value to derive actionable insights from data. collaborate with the customers and internal stakeholders to architect the overall supporting storage and compute infrastructure to support the deployment of the ai/ml/aa models, applications, and visualisation of the results. collaborate with the relevant project managers to conceptualise, develop project scope, requirements, budget, and timeline for the implementation of the identified ai/ml/aa projects. implement the ai/ml/aa projects and to ensure that the projects' ai/ml/aa objectives are met. skills and experience to be considered for this role, you should have the following skills and qualifications:- bachelors (honours) in computer science, information system, statistics, applied mathematics, operations research, or related disciplines. 10+ years experience in artificial intelligence (ai), machine learning (ml) and advanced analytics (aa) domain experience in public safety, defence, transport, education and healthcare are highly desirable. smart city, social media and procurement domain experience in ai, ml, aa also highly desirable. experience with large data sets, including statistical analyses, data visualization, data mining and data cleansing/transformation and machine learning experience in solutions using technologies such as hadoop/hive/hbase/nosql and developer skills in python, perl, and java are highly desired good technical understanding on big data architectures (hadoop, mpp, in-database) predictive analytics and machine learning general data science familiarity with statistical software and programming language: sas, spss, sql, stata, r & python (at least 2 desirable) if you are interested please share your cv via resume@mindcloud.com.au in ms word format along with your visa status, notice period , only au citizen or pr will be considered. we do have other roles available and all roles have to be filled in june. for more jobs details please visit our website: www.mindcloud.com.au or reach us via resume@mindcloud.com.au",,Mindcloud Consultants,Sydney,0,0,95000.0,150000.0,122500.0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,data scientist,na,2370
 LIMS Project - Data Migration Engineer (VPSG4),Employer Provided Salary:$91K - $104K,"job description
 location: melbourne | northern metropolitan
 job type: full time / 6 months
@@ -701,18 +701,18 @@ organisation: victoria police
 salary: $91,418 - $103,725
 occupation: it and telecommunications
 reference: vg/e20043866",2.7,"Victoria Police
-2.7",Melbourne,0,1,91000.0,104000.0,97500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.7",Melbourne,0,1,91000.0,104000.0,97500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,209
 Machine Learning Engineer - Flexible Location,$120K - $165K (Glassdoor Est.),"about us:
 
 the purpose of endeavourx is to bring the best of data, design and tech to make drinks experiences easy & inspiring for everyone.endeavourx operates as cross-functional agile teams solving prioritised customer problems with dedicated resources from within endeavourx & beyond.
 
 our agile teams are empowered to innovate and deliver an excellent experience for our customers - no matter whether they choose to shop in-store, or online. with an industry-leading technology team, backed by analytics, we’re resourceful and willing to experiment.",3.6,"ED - Group Support Functions
-3.6",Darlinghurst,0,0,120000.0,165000.0,142500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3.6",Darlinghurst,0,0,120000.0,165000.0,142500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,mle,na,553
 Senior Data Scientist,$112K - $185K (Glassdoor Est.),"who we are…
 playground xyz, a division of gumgum, is an advertising technology business headquartered in sydney with operations in australia, new zealand, singapore, london, los angeles and new york.
 our mission is to master the art and science of maximizing attention. to do this, we've built the world's first ai that can measure how long an ad was looked at (a metric we call attention time). fueled and verified by real eye tracking data, but able to throw off the shackles of panels and instead scale infinitely across the world wide web, our ai is set to revolutionize the way that digital media is measured, bought and sold.
 we're a fast growing business with every major agency group and a great list of top tier publishers using our technology. we're a team of mobile experts with an unrelenting focus on quality products and tech.",4.5,"Playground XYZ
-4.5",Sydney,0,0,112000.0,185000.0,148500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.5",Sydney,0,0,112000.0,185000.0,148500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,840
 Research Fellow in Multiomics and Machine Learning,$95K - $111K (Glassdoor Est.),"job title
 research fellow in multiomics and machine learning
 job description
@@ -720,13 +720,13 @@ an opportunity exists for a talented and motivated computational scientist to jo
 about the position
 recognizing the emerging importance of artificial intelligence and machine learning in biomedical research, wehi is investing strongly in a new research program and is creating multiple new ai research fellow positions.
 this position will be based in the papenfuss laboratory within the computational biology theme. it will involve developing and applying machine learning techniques to integrate large-scale multi-omics data to identify disease subtypes and predictive biomarkers in a variety of health-related settings, including infectious disease and cancer. projects will involve large-scale single cell or spatial omics, imaging, genome and/or other omics data. there will be opportunity for methods development.",4.5,"The Walter and Eliza Hall Institute of Medical Research
-4.5",Melbourne,0,0,95000.0,111000.0,103000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.5",Melbourne,0,0,95000.0,111000.0,103000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,1093
 Senior Data Scientist,$95K - $150K (Glassdoor Est.),"posted date 12 september 2022
 industry data science
 contact name chris gray
 contact email chris@skltechnology.com.au
 permanent roles within a dynamic insurance business | opportunity to work on projects across a number of divisions
-our client has approval for a number of senior data scientist & data scientist roles within their group data division. the team is currently 4 in size and they are looking to double due to an increasing need to develop their machine learning and deep learning capabilities. they are looking for a mix of experience levels and technical strengths.",,SKL Actuarial,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+our client has approval for a number of senior data scientist & data scientist roles within their group data division. the team is currently 4 in size and they are looking to double due to an increasing need to develop their machine learning and deep learning capabilities. they are looking for a mix of experience levels and technical strengths.",,SKL Actuarial,Sydney,0,0,95000.0,150000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,senior,578
 Data Engineer (Machine Learning),Employer Provided Salary:$180K,"data engineer (machine learning)
 salary: $180k package
 location: sydney, cbd (hybrid)
@@ -735,13 +735,13 @@ about the company
 global leader in ecommerce technology, helping companies seize the full potential of every transaction moment to grow revenue and acquire new customers at scale. live nation, groupon, staples, lands' end, fanatics, urbanstems, godaddy, vistaprint and hellofresh are among the more than 2,500 leading global businesses and advertisers that are using their solutions to drive more value through every transaction by offering highly relevant messages to their customers at the moment they are most likely to convert.
 
 responsibilities",4.2,"Charterhouse
-4.2",Sydney,0,1,180000.0,180000.0,180000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Sydney,0,1,180000.0,180000.0,180000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,636
 CSIRO Postdoctoral Fellowship in Machine Learning for Additive Manufacturing Process Control,Employer Provided Salary:$92K - $101K,"acknowledgement of country
 csiro acknowledges the traditional owners of the land, sea and waters, of the area that we live and work on across australia. we acknowledge their continuing connection to their culture and pay our respects to their elders past and present. view our vision towards reconciliation
 child safety
 csiro is committed to the safety and wellbeing of all children and young people involved in our activities and programs. view our child safe policy.
 the opportunity",4.1,"CSIRO
-4.1",Melbourne,0,1,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.1",Melbourne,0,1,92000.0,101000.0,96500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,484
 Senior Machine Learning Engineer,$135K - $139K (Glassdoor Est.),"senior machine learning engineer
 
 permanent role
@@ -754,18 +754,18 @@ woolworths group is an australian food and everyday needs retailer employing 190
 we strive to create better experiences together for a better tomorrow for our customers and team, bringing the best of woolworths group and quantium together to make data driven decisions. by partnering with quantium, a world-class data science and advanced analytics business we’re excited about the future as we unlock the power of data to reimagine retail.
 
 through this partnership, we’ve created a new business called wiq who will harness the best of woolworths group and quantium to reimagine retail by solving the most complex problems using data and analytics. as a team, we leverage agile ways of working to help our team develop their skills while also making sure our team is focusing on solving the most complex problems for both our customers and team.",3.7,"WooliesX
-3.7",Darlinghurst,0,0,135000.0,139000.0,137000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.7",Darlinghurst,0,0,135000.0,139000.0,137000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,1375
 "ANZ Business Insights, Machine Learning / Data Engineer",$100K - $145K (Glassdoor Est.),"are you passionate about leveraging the power of data and analytics to drive business innovation and make data-driven decisions? do you have a strong background in data mining, analysis, and machine learning? if so, we have an exciting opportunity for you!
 we are seeking a highly skilled and motivated business insights and machine learning/data engineer (ml) to join our clients team based in australia. as a key member of our data and analytics team, you will play a crucial role in providing valuable insights and supporting our product, sales, leadership, and marketing teams.
 responsibilities:
-collaborate with business units to identify opportunities for applying analytics to drive business outcomes.",,The Aicila Group,Sydney,0,0,100000.0,145000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+collaborate with business units to identify opportunities for applying analytics to drive business outcomes.",,The Aicila Group,Sydney,0,0,100000.0,145000.0,122500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,708
 PhD Scholarship – Integrating Data Science with Pandemic Modelling,Employer Provided Salary:$33K,"phd scholarship – integrating data science with pandemic modelling
 job no.: 650121
 location: 553 st kilda road, melbourne
 employment type: full-time
 duration: 3-year fixed-term appointment
 remuneration: the successful applicant will receive a tax-free stipend, at the current value of $33,000 per annum 2023 full-time rate, as per the monash research training program (rtp) stipend.",4.2,"Monash University
-4.2",Melbourne,0,1,33000.0,33000.0,33000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Melbourne,0,1,33000.0,33000.0,33000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,na,382
 Azure Platform Engineer (Data & Analytics),Employer Provided Salary:$250.00 Per hour,"experience designing, building & maintaining cloud hosted platforms & services
 canberra based, 12 month contract with 2x12 month possible extensions
 valid nv1 preferred, preference is for a minimum of 2 days a week working onsite
@@ -781,7 +781,7 @@ the successful candidates will have experience with the following platforms and 
 1. azure cloud
 2. infrastructure as code
 3. infrastructure as a service hosted platforms
-4. desirable: experience with legacy data technology solutions – oracle, ingres, sql server, wintel server network file shares",,Gateway Synergy Recruitment,Canberra,1,1,480000.0,480000.0,480000.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4. desirable: experience with legacy data technology solutions – oracle, ingres, sql server, wintel server network file shares",,Gateway Synergy Recruitment,Canberra,1,1,480000.0,480000.0,480000.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,1129
 Data Scientist - Battery Energy Storage Systems,$100K - $124K (Glassdoor Est.),"optimize battery performance through advanced modeling and algorithms.
 extract valuable insights from large-scale data sets for system enhancement.
 drive innovation in renewable energy integration
@@ -801,7 +801,7 @@ join our client's innovative and passionate team, where you will have the opport
 d'arcy weil
 st james building
 555 bourke street, naarm country, melbourne vic 3000
-+61 3 9999 7409 info@darcyweil.com",,D'Arcy Weil,Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
++61 3 9999 7409 info@darcyweil.com",,D'Arcy Weil,Melbourne,0,0,100000.0,124000.0,112000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,1603
 Senior Machine Learning Engineer,$123K - $160K (Glassdoor Est.),"company description
 
 it all started with an idea at block in 2013. initially built to take the pain out of peer-to-peer payments, cash app has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including afterpay/clearpay, to provide a better way to send, spend, invest, borrow and save to our 47 million monthly active customers. we want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.
@@ -809,7 +809,7 @@ it all started with an idea at block in 2013. initially built to take the pain o
 today, cash app has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. we’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where cash app operates. no matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.
 
 check out our locations, benefits, and more at cash.app/careers.",4.3,"Cash App
-4.3",Melbourne,0,0,123000.0,160000.0,141500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3",Melbourne,0,0,123000.0,160000.0,141500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,994
 Senior Machine Learning Researcher,$120K - $160K (Glassdoor Est.),"esatblish and development foundational models
 high growth start-up
 excellent salary package
@@ -835,7 +835,7 @@ if you have any questions about this role or others we have available you can em
 for the latest jobs, tech news or to 'introduce a friend' for a $1000 referral fee - follow us on linkedin:
 
 https://www.linkedin.com/company/thedrivegroup",5.0,"TheDriveGroup
-5.0",Sydney,0,0,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.0",Sydney,0,0,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,mle,senior,1518
 "Machine Learning Engineer, MTA",$140K - $155K (Glassdoor Est.),"machine learning engineer, mta
 
 date: 15 jul 2023
@@ -843,7 +843,7 @@ location: sydney (macquarie park hq), australia
 company: singtel group
 about the role
 as a key member of the customer success insights team, the manager, data analytics engineering delivers the build of advanced analytics assets (multi-touch attribution). the purpose of the role is csi with data and analytics assets for end-to-end insights (across channels, across touchpoints, powering insights and reporting)",3.6,"Optus
-3.6",Sydney,0,0,140000.0,155000.0,147500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Sydney,0,0,140000.0,155000.0,147500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,462
 Research Fellow in Statistical Data Science,Employer Provided Salary:$115K - $136K,"job no: 0049144
 location: parkville campus. melbourne, australia
 role type: full-time; fixed-term for 3 years
@@ -852,7 +852,7 @@ department/school: school of mathematics and statistics
 salary: level a: aud $80,258 - $108,906 p.a. (phd entry level $101,460 p.a.) or level b: aud $114,645 - $136,136 p.a. (pro-rata for part-time) + 17% superannuation
 level of appointment is subject to qualification and experience
 exciting opportunity to collaborate with leading experts from diverse disciplines such as data science, machine learning, bioinformatics, genomics, and other areas of mathematics and statistics",4.2,"University of Melbourne
-4.2",Melbourne,0,1,115000.0,136000.0,125500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Melbourne,0,1,115000.0,136000.0,125500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,na,615
 Lead Machine Learning Engineer,$120K - $165K (Glassdoor Est.),"job details
 posted
 11 may 2023
@@ -865,7 +865,7 @@ permanent
 discipline
 software development
 reference
-2168",,Spark Recruitment,Sydney,0,0,120000.0,165000.0,142500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2168",,Spark Recruitment,Sydney,0,0,120000.0,165000.0,142500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,134
 Azure Platform Engineer/Designer (Data & Analytics),$48K - $127K (Glassdoor Est.),"open to: australian citizens only
 location: hybrid or remote
 the roles will be responsible for the detailed solution design, development, and implementation of infrastructure in azure in support of data and analytics workloads. these outcomes are delivered using an infrastructure as code deployment model using terraform and the successful candidate with require experience with the following platforms and technology:
@@ -873,14 +873,14 @@ azure cloud : azure hosted data and analytics platforms such as
 data lake
 sql databases
 azure databricks
-azure security features such as",,Etainsolutions,Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+azure security features such as",,Etainsolutions,Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,556
 Analytics Chapter Lead,$60K - $155K (Glassdoor Est.),"about us:
 
 
 endeavour group runs australia’s leading retail drinks and licenced hotel network. we are an asx50 business with more than 1,600 retail stores and 340 hotels powered by a team of 28,000 people. our brands include bws, dan murphy’s, jimmy brings, langtons, shorty’s liquor, pinnacle drinks and alh hotels
 
 our purpose is to create a more sociable future, together. we’re all about bringing people together to create great experiences and memorable moments. we do the right thing - build our business sustainably, act responsibly and embrace technology. we work as one team to contribute to the communities we serve and collaborate with our partners to help build a better industry. we recognise how important our people are in helping us to achieve our ambition and we champion individuality and value fairness, inclusion and diversity.",3.6,"ED - Group Support Functions
-3.6",Darlinghurst,0,0,60000.0,155000.0,107500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.6",Darlinghurst,0,0,60000.0,155000.0,107500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,senior,847
 Azure Platform Engineer (Data & Analytics),$48K - $127K (Glassdoor Est.),"canberra or offsite
 australian citizens only with nv1 preferred
 12 months + 2 x 12 months extension
@@ -903,13 +903,13 @@ in addition to the essential criteria, the following desirable criteria will be 
 if you want to be part of a supportive environment that values continuous improvement and quality service delivery, apply now: kevinac@halcyonknights.com.au
 reach out to: kevina 1300 946 096 or on 03 9997 9408
 v-98006",3.6,"Halcyon Knights
-3.6",Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3.6",Canberra,0,0,48000.0,127000.0,87500.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,data scientist,na,1217
 Machine Learning Engineer,Employer Provided Salary:$220K - $270K,"machine learning engineer
 salary: $220k - $270k inc. super (excluding equity)
 location: sydney cbd (hybrid)
 about the company
 global leader in ecommerce technology, helping companies seize the full potential of every transaction moment to grow revenue and acquire new customers at scale. live nation, groupon, staples, lands' end, fanatics, urbanstems, godaddy, vistaprint and hellofresh are among the more than 2,500 leading global businesses and advertisers that are using their solutions to drive more value through every transaction by offering highly relevant messages to their customers at the moment they are most likely to convert.",4.2,"Charterhouse
-4.2",Sydney,0,1,220000.0,270000.0,245000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Sydney,0,1,220000.0,270000.0,245000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,639
 Planning Analytics Engineer,$53K - $100K (Glassdoor Est.),"about the job planning analytics engineer
 requirements
 should have experience in building and administration of tm1 models
@@ -918,14 +918,14 @@ should have 5+ years of experience in bi, business analytics or data science
 minimum experience required is 5 -10 years
 experience with working with large and complex data sets from diverse sources, structures and formats
 proven experience providing support for existing reporting and analytics products while developing new ones",5.0,"Pyramid Global Technologies
-5.0",Sydney,0,0,53000.0,100000.0,76500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5.0",Sydney,0,0,53000.0,100000.0,76500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,504
 PhD Project – Supervised and knowledge-guided machine learning approaches for quantifying and identifying microorganisms in water and wastewater treatment,Employer Provided Salary:$30K,"phd project – supervised and knowledge-guided machine learning approaches for quantifying and identifying microorganisms in water and wastewater treatment
 job no.: 648559
 location: clayton campus
 employment type: full-time
 duration: 3.5-year fixed-term appointment
 remuneration: $30,000 p.a 3.5 years full-time rate (pro-rata) 2023 rate",4.2,"Monash University
-4.2",Clayton North,0,1,30000.0,30000.0,30000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2",Clayton North,0,1,30000.0,30000.0,30000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,336
 Manager Credit Model Analytics,$104K - $126K (Glassdoor Est.),"at commbank we believe in working somewhere that works for you. we have many flexible working options available so talk to us about which arrangements could work best for you.
 you are passionate about all things data related with a positive attitude
 we are a values-driven high performing team within the business banking risk management space
@@ -937,7 +937,7 @@ risk management is responsible for developing and deploying the risk frameworks 
 
 
 advertising end date: 04/08/2023",3.9,"Commonwealth Bank
-3.9",Sydney,0,0,104000.0,126000.0,115000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.9",Sydney,0,0,104000.0,126000.0,115000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,manager,na,709
 Senior Machine Learning Engineer,$120K - $160K (Glassdoor Est.),"join a leading australian business
 collaborative team culture pushing tech boundaries
 wfh flexibility with sydney based office
@@ -964,7 +964,7 @@ as part of our team, you will collaborate with passionate machine learning engin
 if this sounds like the right role for you,
 
 please don't forget our one time, $750 referral fee for a successfully placed candidate !!!",4.9,"Co Talent IT Recruitment Pty Ltd
-4.9",Sydney,0,0,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.9",Sydney,0,0,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,985
 Instrumentation and Data Analytics Engineer - Hydrogen Gas,$100K - $163K (Glassdoor Est.),"develop data analytics methodologies to improve process performance.
 drive innovation in hydrogen production technologies.
 enjoy great career support and benefits
@@ -986,7 +986,7 @@ by hitting the 'apply' button. please upload your cover letter and cv or contact
 
 st james building, mezzanine
 555 bourke street, melbourne vic 3000
-+61 3 9999 7409 info@darcyweil.com",,D'Arcy Weil,Melbourne,0,0,100000.0,163000.0,131500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
++61 3 9999 7409 info@darcyweil.com",,D'Arcy Weil,Melbourne,0,0,100000.0,163000.0,131500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,na,1415
 Lead Machine Learning Engineer,Employer Provided Salary:$120K - $160K,"open to candidates based in eastern states
 modern, gcp and kubernetes tech stack
 salaries ranging from $120k - $160k base
@@ -1005,7 +1005,7 @@ for more information, please reach out to andrew de roos at andrew@thedrivegroup
 
 https://www.linkedin.com/company/thedrivegroup for the latest tech news, new jobs & our $1000 'introduce a friend' referral fee
 https://www.linkedin.com/company/thedrivegroup for the latest tech news, new jobs & our $1000 'introduce a friend' referral fee",5.0,"TheDriveGroup
-5.0",Sydney,0,1,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.0",Sydney,0,1,120000.0,160000.0,140000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mle,senior,1143
 "ASD 4,5,6 & EL1 Artificial Intelligence Professional",Employer Provided Salary:$75K - $178K,"total salary package - 74,795 - 177,500 plus 15.4% super
 brisbane cbd - qld,canberra - act,melbourne cbd - vic,perth cbd - wa
 the role
@@ -1022,7 +1022,7 @@ at an el1 level we will expect you to have professional experience leading compl
 the ai hub is a part of asd mission data division and we are responsible for the delivery of data science and analytics capability. every day provides us with an opportunity to use our skills and experience to solve difficult problems and to transform the way that asd does business. you could be working closely with language specialists one day, assisting with cyber analysis the next and then by the end of the week you could be providing expertise to senior management on data science techniques.
 
 we maintain close research ties with several organisations, ensuring you'll have the opportunity to stay across the latest developments in the field. our staff are diverse and have created a culture where teaching and learning from each other's experience forms an important part of our daily work.",3.8,"Australian Signals Directorate (ASD)
-3.8",Melbourne,0,1,75000.0,178000.0,126500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.8",Melbourne,0,1,75000.0,178000.0,126500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na,na,1264
 APS Level 5 - Statistical Analyst/Statistician,$90K - $101K (Glassdoor Est.),"aps level 5
 $81,372 - $88,000
 canberra, act; melbourne, vic
@@ -1032,7 +1032,7 @@ the strategic policy and behavioural insights section within the benefits integr
 
 the strategic policy and behavioural insights section is a multidisciplinary team with expertise in a range of disciplines including psychology, economics and data science. the section has three key roles:
 more information of the department of health and aged care’s compliance program can be found on our website by searching 'medicare compliance'.",3.8,"Australian Government - Department of Health
-3.8",Melbourne,0,0,90000.0,101000.0,95500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.8",Melbourne,0,0,90000.0,101000.0,95500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,1153
 Data Scientist,Employer Provided Salary:$75.00 - $81.25 Per hour,"mid: 3-5 yrs of exp, senior: 6-10 yrs of exp
 5 years
 tech skillsets:
@@ -1041,4 +1041,4 @@ statistical inference
 predictive / prescriptive analytics
 segmentation model/ propensity model
 data analysis",1.8,"PanAsia HR Resourcing
-1.8",Remote,1,1,144000.0,156000.0,150000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1.8",Remote,1,1,144000.0,156000.0,150000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,206
