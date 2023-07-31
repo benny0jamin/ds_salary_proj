@@ -60,12 +60,42 @@ def add_skills(dfs):
 
     return df
 
-
+def title_simplifier(title):
+    if 'graduate' in title.lower():
+        return 'graduate'
+    elif 'data scientist' in title.lower() or 'data & analytics'in title.lower():
+        return 'data scientist'
+    elif 'data engineer' in title.lower():
+        return 'data engineer'
+    elif 'analyst' in title.lower():
+        return 'analyst'
+    elif 'machine learning' in title.lower() or 'deep learning' in title.lower() or 'engineer' in title.lower():
+        return 'mle'
+    elif 'manager' in title.lower():
+        return 'manager'
+    elif 'director' in title.lower():
+        return 'director'
+    else:
+        return 'na'
+    
+def seniority(title):
+    if 'sr' in title.lower() or 'senior' in title.lower() or 'sr' in title.lower() or 'lead' in title.lower() or 'principal' in title.lower():
+            return 'senior'
+    elif 'jr' in title.lower() or 'jr.' in title.lower():
+        return 'jr'
+    else:
+        return 'na'
 
 df = pd.read_csv('data\Data Scientist.csv')
 df = clean_data(df)
 # Add the skills to the dataframe
 df = add_skills(df)
+#Create simplified job titles
+df['job_simp'] = df['Job Title'].apply(title_simplifier)
+#Check for role seniority
+df['seniority'] = df['Job Title'].apply(seniority)
+#Calculate length of job description
+df['desc_len'] = df['Job Description'].apply(lambda x: len(x))
 df.to_csv('data\Data Scientist_cleaned.csv', index=False)
 
 df.head()
