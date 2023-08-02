@@ -51,8 +51,9 @@ Lasso Regression – Because of the sparse data from the many categorical variab
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
 ## Model performance
-The Random Forest model far outperformed the other approaches on the test and validation sets.
+The Random Forest model outperformed the other approaches on the test and validation sets.
+Due to the small dataset available the large MAE is not unexpected. Retrieving salary data from other sources could be attempted to improve the available data.
 
-Random Forest : MAE = 11.22
-Linear Regression: MAE = 18.86
-Ridge Regression: MAE = 19.67
+- Random Forest : MAE = 22,218
+- Lasso Regression: MAE = 22,991
+- Multiple Linear Regression: MAE = 23,763
