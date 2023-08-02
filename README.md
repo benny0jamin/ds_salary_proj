@@ -35,27 +35,24 @@ After scraping, the data required cleaning to retrieve further data points and m
 - Create column for job seniority
 
 ## Exploratory Data Analysis
+Investigated the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+Interesting to note the emphasis on team work related terms as opposed to technical skillsets, may indicate companies are beggining to view Data Scientists as integral components of a modern workforce. 
 
+![Heatmap](https://github.com/benny0jamin/ds_salary_proj/blob/main/Images/location.png) ![Heatmap](https://github.com/benny0jamin/ds_salary_proj/blob/main/Images/hm_features.png)
+![Heatmap](https://github.com/benny0jamin/ds_salary_proj/blob/main/Images/salary_hist.png) ![Heatmap](https://github.com/benny0jamin/ds_salary_proj/blob/main/Images/wordcloud.png)
 
-## Description
+## Model Building
+Categorical variable converted into dummy variables. 
+Split the data into train and tests sets with a test size of 20%.
+Implemented three different models and evaluated them using Mean Absolute Error. 
 
-The project consists of three main Python scripts:
+Multiple Linear Regression – Baseline for the model
+Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
+Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
-- `main.py`: The main driver script that calls the scraping function with the desired job keyword and number of jobs to scrape.
+## Model performance
+The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-- `glassdoor_scraper.py`: Contains the main scraping functions, including creating a Selenium WebDriver instance, navigating the Glassdoor website, handling CAPTCHAs and popups, and extracting job details.
-
-- `helpers.py`: Includes a helper function for converting df to csv
-
-The scripts extract job details including the job title, company name, location, job description, salary estimate, and company rating. The scraped data is then saved to a CSV file.
-
-## Usage
-First, modify the following line in the main.py script with your desired job keyword and the number of jobs you want to scrape:
-```
-get_jobs("data scientist", 5, False)
-```
-
-Then, run the script:
-```
-python main.py
-```
+Random Forest : MAE = 11.22
+Linear Regression: MAE = 18.86
+Ridge Regression: MAE = 19.67
